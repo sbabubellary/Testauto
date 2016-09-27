@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite configfailurepolicy="continue" name="Suite" parallel="none">
+
+ <listeners>
+            <listener-name class-name="com.sun.sample.ListenerClass"/>
+    </listeners>
+  <test name="Test" preserve-order="true">
+    <classes>
+      <class name="com.sun.sample.HRM_APP"/>
+    </classes>
+  </test>
+</suite>

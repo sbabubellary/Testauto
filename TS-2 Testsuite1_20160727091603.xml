@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TS-2 Testsuite1">
+    <test name="TR-12 com.sun.sample.HRM_APP">
+        <parameter name="testRunId" value="5250242"/>
+        <parameter name="projectId" value="28981"/>com.sun.sample.HRM_APP</test>
+    <test name="TR-13 com.sun.sample.HRM_APP">
+        <parameter name="testRunId" value="5251042"/>
+        <parameter name="projectId" value="28981"/>com.sun.sample.HRM_APP</test>
+</suite>
